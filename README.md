@@ -1,7 +1,7 @@
 # Encrypted-Dynamic-Form-with-Disappearing-Fields
 
 
-1. How encryption and decryption were handled (simple explanation)
+## 1. How encryption and decryption were handled (simple explanation)
 
 -Encryption was done using AES-256-CBC.
 
@@ -15,7 +15,7 @@
 
 ---
 
-2. Method used to detect the decoy field (simple explanation)
+## 2. Method used to detect the decoy field (simple explanation)
 
 -After decrypting each field:
 
