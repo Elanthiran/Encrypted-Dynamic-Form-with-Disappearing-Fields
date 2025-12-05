@@ -5,7 +5,7 @@
 
 -Encryption was done using AES-256-CBC.
 
-=Before encrypting, the text was prefixed with "SALT1234".
+-Before encrypting, the text was prefixed with "SALT1234".
 
 -The encryption key was created by taking a SHA-256  "internsNeverGuess".
 
